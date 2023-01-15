@@ -1,0 +1,24 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menrry/proyecto1-cs50w.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Menrry/proyecto1-cs50w/issues"
+  },
+  "homepage": "https://github.com/Menrry/proyecto1-cs50w#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
